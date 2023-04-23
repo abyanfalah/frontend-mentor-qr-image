@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abyanfalah/frontend-mentor-qr-image)
-- Live Site URL: [Add live site URL here](https://amazing-meringue-d725e0.netlify.app)
+- Solution URL: [Here](https://github.com/abyanfalah/frontend-mentor-qr-image)
+- Live Site URL: [Here](https://amazing-meringue-d725e0.netlify.app)
 
 ## My process
 
