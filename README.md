@@ -27,12 +27,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Create HTML structure
 - Get fonts
 - Add CSS variables
-- Put .content class max-width to ~350px
+- Put `.content` class `max-width` to ~350px
 - Put image
 - Style the image
 - Put texts
 - style the texts
-- add shadow to .content
+- add shadow to `.content`
 
 ### Built with
 
